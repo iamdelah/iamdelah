@@ -1,7 +1,7 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/56b11aa122482ef10d74f229/1555352761792-MU2J85G6KCK2937FXP6O/Homepage+Banner+A.gif?format=2500w)
 <h1 align="center">Hi 👋, I'm Delah Keys</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/045e3d807cc00f35001984ed251551e0238332edf1134f2c66a4b2c008234ed6/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdelah&label=Profile%20views&color=0e75b6&style=flat" alt="iamdelah" /> </p>
 
