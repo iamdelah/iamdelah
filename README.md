@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, C++, .Net**
 
-- 📫 How to reach me **dherlali888@gmail.com**
+<!-- 📫 How to reach me **dherlali888@gmail.com** -->
 
 - ⚡ Fun fact **I am funny**
 
