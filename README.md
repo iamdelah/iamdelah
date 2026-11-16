@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/delahkeys" target="blank"><img src="https://img.shields.io/twitter/follow/delahkeys?logo=twitter&style=for-the-badge" alt="delahkeys" /></a> </p>
 
-- 🔭 I’m currently working on **Wedding Wheel**
+- 🔭 I’m currently working on **Dev Tips**
 
 - 🌱 I’m currently learning **Android, PHP**
 
-- 👨‍💻 All of my projects are available at [http://delahkeys.vercel.app/](http://delahkeys.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://delahkeys.vercel.app/](https://dellakeyz.vercel.app/)
 
 - 💬 Ask me about **Java, C++, .Net**
 
