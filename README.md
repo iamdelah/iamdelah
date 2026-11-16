@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android, PHP**
 
-- 👨‍💻 All of my projects are available at [http://delahkeys.vercel.app/](https://dellakeyz.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://dellakeyz.vercel.app/)
 
 - 💬 Ask me about **Java, C++, .Net**
 
